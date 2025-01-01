@@ -129,7 +129,6 @@ body {
 
   grid-column: 3; /* Button will be in the third column */
   justify-self: center; /* Center the button in the third column */
-  /* margin-top: 50%; */
 }
 
 .items .button:hover {
